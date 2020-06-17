@@ -1,0 +1,5 @@
+1592421793226	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/nl/fydlzghj3rvgmgvgjvhf3hf00000gn/T/rust_mozprofilemMzBot"
+1592421797475	Marionette	INFO	Listening on port 50293
+1592421797516	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1592421799434	Marionette	INFO	Stopped listening on port 50293
